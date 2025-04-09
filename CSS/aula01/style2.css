@@ -1,0 +1,17 @@
+/* comentário importante */
+body {
+    background-color: cadetblue;
+    color: chartreuse;
+}
+p{
+    color: bisque;
+}
+h1{
+    color: red;
+}
+/*
+ body - seletor de elemento 
+{} - bloco de código
+ background-color - propriedade
+ cadetblue - valor da propriedade
+ */
